@@ -7,7 +7,7 @@ __pycache__/
 .env
 
 # IDE settings
-.idea/
+../.idea/
 .vscode/
 
 # Logs and databases
